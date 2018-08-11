@@ -48,7 +48,7 @@ a:active {
 .header {
   display: flex;
   color: #999;
-  background-color: #DDD;
+  background-color: rgb(255, 129, 129);
   grid-column-start: 1;
   grid-column-end:   3;
   align-items: center;
